@@ -55,8 +55,13 @@ python SmartFaceComp.py
 ### 🖼️ Screenshots
 
 ### Gallery View
-![Home](./screenshots/GalleryView.png)🖼️ Screenshots
-Gallery View	Comparison Progress	Matched Images
+![Home](./screenshots/GalleryView.png)
+
+### Comparison Progress	
+![Home](./screenshots/ComparisonProgress.png)
+
+###Matched Images
+![Home](./screenshots/MatchedImages.png)
 
 📌 Future Improvements
 Implement Share functionality.
