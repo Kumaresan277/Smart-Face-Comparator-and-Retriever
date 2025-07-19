@@ -52,7 +52,10 @@ bash
 Copy
 Edit
 python SmartFaceComp.py
-🖼️ Screenshots
+### 🖼️ Screenshots
+
+### Gallery View
+![Home](./screenshots/GalleryView.png)🖼️ Screenshots
 Gallery View	Comparison Progress	Matched Images
 
 📌 Future Improvements
