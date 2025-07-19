@@ -60,7 +60,7 @@ python SmartFaceComp.py
 ### Comparison Progress	
 ![Home](./screenshots/ComparisonProgress.png)
 
-###Matched Images
+### Matched Images
 ![Home](./screenshots/MatchedImages.png)
 
 📌 Future Improvements
