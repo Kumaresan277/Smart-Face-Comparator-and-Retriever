@@ -38,7 +38,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/smart-face-comparator.git
+git clone https://github.com/Kumaresan277/Smart-Face-Comparator-and-Retriever.git
 cd smart-face-comparator
 Install dependencies:
 
