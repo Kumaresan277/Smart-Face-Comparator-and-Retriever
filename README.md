@@ -32,26 +32,6 @@ Threading - For background comparison without freezing the UI
 
 Shutil - File management (Copy/Move)
 
-🛠 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Kumaresan277/Smart-Face-Comparator-and-Retriever.git
-cd smart-face-comparator
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install face_recognition pillow
-Run the application:
-
-bash
-Copy
-Edit
-python SmartFaceComp.py
 ### 🖼️ Screenshots
 
 ### Gallery View
@@ -62,6 +42,20 @@ python SmartFaceComp.py
 
 ### Matched Images
 ![Home](./screenshots/MatchedImages.png)
+
+
+🛠 How to Run
+Clone the repository:
+
+git clone https://github.com/Kumaresan277/Smart-Face-Comparator-and-Retriever.git
+cd smart-face-comparator
+
+Install dependencies:
+
+- pip install face_recognition pillow
+- Run the application:
+- python SmartFaceComp.py
+
 
 📌 Future Improvements
 Implement Share functionality.
