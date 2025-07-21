@@ -61,7 +61,7 @@ This is my Final Semester Project.
 
 ### 👨‍🎓 Author
 - Kumaresan D
-- Final Semester Project | LinkedIn
+- Final Semester Project
 
 
 
