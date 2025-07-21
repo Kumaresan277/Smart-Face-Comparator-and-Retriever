@@ -26,7 +26,7 @@ This is my Final Semester Project.
 - face_recognition - Facial feature encoding & comparison
 - Threading - For background comparison without freezing the UI
 - Shutil - File management (Copy/Move)
-
+---
 ### 🖼️ Screenshots
 
 ### Gallery View
@@ -38,6 +38,7 @@ This is my Final Semester Project.
 ### Matched Images
 ![Home](./screenshots/MatchedImages.png)
 
+---
 
 ### 🛠 How to Run
 ### Clone the repository:
